@@ -1,0 +1,1 @@
+1 ls  2 ls ab  3 cd Op  4 cd Open_CSV  5 ls  6 ls -f  7 cd ..  8 echo hello  9 echo -n hi  10 echo -e "Hello\tWorld"  11 echo -E "Hello\tWorld"  12 pwd  13 history -w  
